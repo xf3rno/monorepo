@@ -1,0 +1,15 @@
+{
+  "lastUpdate": 1612553193615,
+  "blocks": {
+    "*": {
+      "values": {
+        "version": [
+          "2.4.0"
+        ],
+        "commandName": [
+          "--version"
+        ]
+      }
+    }
+  }
+}
